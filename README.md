@@ -17,9 +17,8 @@ Legal Salahkar is an AI-powered legal advisory platform that provides instant, r
 
 ### **Artificial Intelligence & NLP**
 - OpenAI GPT, Meta Llama, Groq, Gemini  
-- Hugging Face, LangChain, RAG  
-- Vector Databases: FAISS, Qdrant, ChromaDB  
-- LlamaParse, CrewAI, Agno  
+- LangChain, RAG  
+- Vector Databases: FAISS  
 
 ### **Web Development**
 - React.js, Streamlit  
@@ -27,11 +26,11 @@ Legal Salahkar is an AI-powered legal advisory platform that provides instant, r
 - Firebase Authentication & Firestore  
 
 ### **Tools & APIs**
-- Git, REST APIs, Postman  
+- Git, REST APIs  
 - OpenCV, Speech Recognition  
 
 ### **Programming Languages**
-- Python, JavaScript, Java, C++, SQL, HTML5, CSS3  
+- Python
 
 
 ## Installation & Setup
@@ -48,11 +47,11 @@ venv\Scripts\activate      # On Windows
 
 
 pip install -r requirements.txt
-npm install  # If using React.js for frontend
+
 
 
 streamlit run app.py  # If using Streamlit
-npm start             # If using React.js frontend
+
 
 
 ## Usage
